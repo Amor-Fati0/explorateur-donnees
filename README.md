@@ -16,12 +16,5 @@ Python, Streamlit, pandas, requests, Plotly
     pip install -r requirements.txt
     python -m streamlit run app.py
 
-## Ce que j'ai appris
-- Appeler une API avec requests et lire du JSON
-- Nettoyer et organiser des données avec pandas
-- Gérer les erreurs avec try / except
-- Créer des graphiques interactifs avec Plotly
-- Construire une interface web avec Streamlit
-
 ## Auteur
-Diallo Adu, étudiant en licence d'informatique à Sup de Co
+El hadji Médoune Diallo, étudiant en licence d'informatique à Sup de Co
